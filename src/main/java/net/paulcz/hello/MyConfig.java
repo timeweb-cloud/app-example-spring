@@ -9,7 +9,7 @@ import org.springframework.cloud.context.restart.RestartEndpoint;
 @ConfigurationProperties(prefix = "")
 public class MyConfig {
 
-	private String message = "hello world";
+	private String message = "Timeweb Cloud + Spring = ❤";
 
 	public String getMessage() {
 		return this.message;
