@@ -13,7 +13,9 @@
 ## <a name="dev"></a>Локальный запуск проекта
 
 ```bash
+# установка зависимостей
+mvn clean install
+
 # запуск приложения
-cd src
-./gradlew bootRun
+mvn spring-boot:run
 ```
