@@ -4,7 +4,7 @@
 
 Пример приложения [Spring](https://spring.io/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо]()
+:tada: [Демо](https://timeweb-cloud-app-example-spring-abc8.twc1.net)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
